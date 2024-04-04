@@ -1,0 +1,65 @@
+table{
+    height: 10px;
+    width: 100%;
+}
+h1{
+    background-color: rgb(255, 72, 0);
+}
+#a{
+    color: antiquewhite;
+}
+#b{
+    color: antiquewhite;
+}
+#c{
+    color: antiquewhite;
+}
+#d{
+    color: antiquewhite;
+}
+#e{
+    color: antiquewhite;
+}
+table{
+    background-color: orange;
+}
+#www{
+    width: 6%;
+    height: 8%;
+}
+#pl{
+    background-color: rgb(255, 187, 0);
+}
+#lol{
+    background-color: yellow;
+}
+H2{
+    background-color: orange;
+}
+#ht{
+    color: rgb(197, 136, 21);
+    background-color: white;
+    text-decoration: underline;
+}
+#AA{
+    text-decoration: line-through;
+}
+#LOL{
+    height: 50PX;
+    width: 100;
+}
+#gg{
+    width: 0px;
+    height: 0px;
+}
+#ggg{
+    width: 0px;
+    height: 0px;
+    background-color: white;
+}
+#gg{
+    background-color: azure;
+}
+#PL{
+    background-color: azure;
+}
